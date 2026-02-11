@@ -15,7 +15,7 @@
   },
   "keywords": ["business-management", "api", "express", "typescript", "bookings", "leads"],
   "author": "Erin Paul Manjaly",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^5.2.1"
   },
