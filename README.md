@@ -55,7 +55,7 @@ The server will start on port 3000 by default, or use the `PORT` environment var
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
