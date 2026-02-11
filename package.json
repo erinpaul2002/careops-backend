@@ -1,0 +1,29 @@
+{
+  "name": "careops-backend",
+  "version": "1.0.0",
+  "description": "Backend service for CareOps business management platform",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon --exec ts-node src/server.ts",
+    "start": "node dist/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinpaul2002/careops-backend.git"
+  },
+  "keywords": ["business-management", "api", "express", "typescript", "bookings", "leads"],
+  "author": "Erin Paul Manjaly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.2.3",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
